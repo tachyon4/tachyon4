@@ -1,9 +1,12 @@
 # This is a capstone project to be made by:
 
-### Aditya Narayan Singh
-### Akarshan Sharma
-### Arslan Mansoor
-### Clifton Festus Malvea
+### Aditya Narayan Singh: Database admin
+### Akarshan Sharma: APM
+### Arslan Mansoor: Front End Engineer
+### Clifton Festus Malvea: BackEnd Engineer
+
+
+
 <br>
 
 
